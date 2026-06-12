@@ -127,7 +127,7 @@ House_Pricing_Predict/
 ├── scaler.pkl                   # StandardScaler
 ├── poly.pkl                     # PolynomialFeatures transformer
 └── README.md                    # Project documentation
-
+```
 ---
 
 ## 👤 Author
